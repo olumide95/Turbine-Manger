@@ -1,0 +1,6 @@
+device,check,D,W,M,Q,S,CI,HGPI,MI,X
+Compressor bleed valve,"Test the valve for smooth open/close movement, lubricate with high temperature anti-seize compound to all moving parts, as necessary. Check air tightness",,,,,,S,,,
+Compressor Bleed Solenoid Valve,Test the valve for smooth open/close movement Apply anti-seize compound to all moving parts,,,,,,S,,,
+Blower,External visual check for excessive noise or vibration,,O,,,,,,,
+Blower,"Cleanliness of ducts, housing, screens, blades",,,,,,S,,,
+Blower,"Erosion of blades, deposit on blades, rust, corrosion, peeling",,,,,,S,,,

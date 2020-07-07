@@ -1,0 +1,10 @@
+device,check,D,W,M,Q,S,CI,HGPI,MI,X
+Storage cylinders Storage tank,"Check availability of extinguishing agent (from pressure gage, weight indicator, level gauge). Fill up or replace cylinder as necessary.",O,,,,,,,,
+Piping and hoses,"External visual check loose support, loose nozzle, hose damage",,O,,,,,,,
+Fire detectors,Check good operation of fire detectors using an adjustable heat source. Replace the device if out of specification,,,,,,S,,,
+Break-glass units,"Check for device damage, and check good operation of the break glass system",,,,,,S,,,
+"Flashing  lights, Sirens","Check for device damage, and check good operation of devices",,,,,,S,,,
+Nozzles,Check cleanliness of nozzle holes,,,,,,S,,,
+CO2 latch and damper,Check manually good and free mechanical operation of latch and damper,,,,,,S,,,
+Sealing of enclosure,"Visual check of sealing between acoustical panel at walls, at roof, quality of joints, sealing of  pipe wall crossing,  sealing of electrical cables wall crossing. No day light should be visible from inside through joints. Initiate corrective action as necessary",,,,,,S,,,
+System operation,"After major inspection, check for enclosure sealing and organize carefully with all the necessary safety precaution a manually real discharge. Check good operation of the system, the latches and dampers and measure the CO2 concentration inside compartment",,,,,,,,S,

@@ -1,0 +1,17 @@
+device,check,D,W,M,Q,S,CI,HGPI,MI,X
+Lubricating oil,Take a sample for routine control analysis (defined in specification 91-438752) and check characteristics according to GE specification,,,,O,,,,,
+Lubricating oil,Take a sample for complete analysis (defined in specification 91-438752) and check characteristics according to GE specification,,,,,,S,,,
+Lubricating oil,Change oil if out of specification,,,,,,,,,S
+Lubricating oil,"External visual check for lube oil level, lube oil leak",,O,,,,,,,
+Lube oil tank,"Check inside the tank : peeling paint, loose component, loose fitting, loose clamp",,,,,,S,,,
+Lube oil pumps,"External visual check for fluid leak, device damage, excessive noise",,,O,,,,,,
+Lube oil pumps,Gas turbine on continuous operation : check starting sequence of AC pump using test valve except if included in the software by weekly test.,,O,,,,,,,
+Lube oil pumps,"Check outlet pressure, electrical power and vibration are according to pump and motor characteristics",,,,,,S,,,
+Lube oil pumps,Grease motor and pump according to manufacturer literature,,,,,,,,,S
+Lube oil filter,"Replace cartridges by a set of new one regardless of the pressure drop, including standby filter",,,,,,S,,,
+Oil Mist eliminator,"External visual check for fluid leak, device damage, excessive noise",,O,,,,,,,
+Oil Mist eliminator,Replace coalescent cartridges by a new set.  New cartridges must be manually fully oil imbibed before operation,,,,,,S,,,
+Oil Mist eliminator,check good operation of internal damper and check valves,,,,,,S,,,
+Oil Mist eliminator,Clean the vent area,,,,,,S,,,
+Oil Mist eliminator,Adjust oil tank pressure after maintenance after inspection,,,,,,O,,,
+6FA : bearing #2 insulation,Change insulation of bearing #2 return line for 6FA unit,,,,,,S,,,

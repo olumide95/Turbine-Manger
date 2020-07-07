@@ -1,0 +1,9 @@
+device,check,D,W,M,Q,S,CI,HGPI,MI,X
+Gas fuel,Check gas fuel properties still in accordance with GEI 41040 and Control specification,,,O,,,,,,
+Gas fuel system,"External visual check for hydraulic oil leak, pipe damage, loose support, damage insulation",,O,,,,,,,
+Gas stop valves,Check for gas leakage at stem,,,O,,,,,,
+Gas stop valves,Check the good operation of the valve according to command signal,,,,,,S,,,
+Gas stop valves,Proceed to valve seat leak test to confirm the valve operate in the defined leakage class as per ANSI/FCI 70-2-2006,,,,,,S,,,
+Gas stop valves,Check good operation of tripping system,,,,,,S,,,
+Gas control valves,Check for gas leakage at stem,,,O,,,,,,
+Gas control valves,"Accurate stroke versus control signal according to control specification, proper setting of null bias and good operation of trip relay",,,,,,S,,,

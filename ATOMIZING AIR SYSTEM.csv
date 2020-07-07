@@ -1,0 +1,12 @@
+device,check,D,W,M,Q,S,CI,HGPI,MI,X
+Starting atomizing air booster,Check lubricating oil level,,,O,,,,,,
+Starting atomizing air booster,Grease bearing as necessary,,,,,,S,,,
+Starting atomizing air booster,Check cleanliness of continuous blow down at booster outlet,,,,,,S,,,
+Starting atomizing air booster,Check Belt according to specification 154A3418,,,,,,S,,,
+Atomizing air compressor,"External visual check for fluid leak, loose support, hot spot",,O,,,,,,,
+Atomizing air compressor,Check vibration level,,,,O,,,,,
+Atomizing air compressor,Absence of oil or vapor at vent,,,O,,,,,,
+Atomizing air compressor,Check compressor ratio if differential pressure transducer is provided,,O,,,,,,,
+By-pass valve,"Apply a coating of lubricant ""Never-Seez"" or equivalent anti-seize lubricant to all moving parts",,,,,,S,,,
+Air separator,Check cleanliness of drain line,,,,,,S,,,
+Air separator,Check all surfaces and deflector against dirt and wear,,,,,,,S,,

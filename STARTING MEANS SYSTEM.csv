@@ -1,0 +1,12 @@
+device,check,D,W,M,Q,S,CI,HGPI,MI,X
+6B : Diesel engine,"Check oil level, liquid fuel tank level, external visual check for leak",,O,,,,,,,
+6B : Diesel engine,Take oil sampling for analysis,,,,,O,,,,
+6B : Diesel engine,Filters : clean or replace,,,,,,S,,,
+6B : Diesel engine,Diesel Engine test if the gas turbine is running continuously: test once a month at idle speed,,,O,,,,,,
+6B : Diesel engine,Proceed to maintenance according to diesel engine running hours,,,,,,S,,,S
+6B : jaw type clutch,"External visual check for fluid leak, device damage, cleanliness of sliding tooth, smooth sliding",,,,,,S,,,
+6B : jaw type clutch,Grease sliding tooth using Molybdenum bisulphide grease aerosol spray,,,,,,S,,,
+9E : Torque converter,Replace the input and output side bearings. Refer to manufacturer literature.,,,,,,,S,,
+Torque converter All units,"Visual check for external oil leaks at shaft seals, bolted flanges, cover plates",,O,,,,,,,
+Torque converter All units,"Check vibration level,",,,,O,,,,,
+Torque converter All units,Check alignment,,,,,,S,,,
