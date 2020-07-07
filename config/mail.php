@@ -56,8 +56,8 @@ return [
     */
 
     'from' => [
-        'address' => 'olugbemiro.olumide@gmail.com',
-        'name' =>  'PAYDRAFT',
+        'address' => '',
+        'name' =>  '',
     ],
 
     /*
@@ -84,9 +84,9 @@ return [
     |
     */
 
-    'username' => 'olugbemiro.olumide@gmail.com',
+    'username' => env('MAIL_USERNAME'),
 
-    'password' => '0v3rl0rd1321',
+    'password' => env('MAIL_PASSWORD'),
 
     /*
     |--------------------------------------------------------------------------
